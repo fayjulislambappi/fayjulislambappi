@@ -39,17 +39,14 @@ I am a developer with a diverse skillset ranging from **UI/UX Design** to **Data
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <br/>
-  <a href="https://github.com/fayjulislambappi">
-    <img src="https://github-readme-stats.vercel.app/api?username=fayjulislambappi&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
-  </a>
-  
-  <a href="https://github.com/fayjulislambappi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayjulislambappi&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
-  </a>
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.demolab.com/?user=fayjulislambappi&theme=tokyonight&hide_border=true" alt="streak graph" />
-</div>
+[![Trophies](https://github-profile-trophies.vercel.app/?username=fayjulislambappi&theme=tokyonight&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophies)
+
+<br/>
+
+<a href="https://github.com/fayjulislambappi">
+  <img src="https://github-readme-stats.vercel.app/api?username=fayjulislambappi&show_icons=true&theme=tokyonight&hide_border=true&v=2.0" height="180" alt="stats graph" />
+</a>
+
+<a href="https://github.com/fayjulislambappi">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayjulislambappi&layout=compact&theme=tokyonight&hide_border=true&v=2.0" height="180" alt="languages graph" />
+</a>
