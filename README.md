@@ -43,10 +43,14 @@ I am a developer with a diverse skillset ranging from **UI/UX Design** to **Data
 
 <br/>
 
-<a href="https://github.com/fayjulislambappi">
-  <img src="https://github-readme-stats.vercel.app/api?username=fayjulislambappi&show_icons=true&theme=tokyonight&hide_border=true&v=2.0" height="180" alt="stats graph" />
-</a>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fayjulislambappi&theme=tokyonight" alt="Stats" />
+  
+  <br/>
 
-<a href="https://github.com/fayjulislambappi">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayjulislambappi&layout=compact&theme=tokyonight&hide_border=true&v=2.0" height="180" alt="languages graph" />
-</a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fayjulislambappi&theme=tokyonight" alt="Languages" />
+  
+  <br/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fayjulislambappi&theme=tokyonight&utcOffset=6" alt="Productive Time" />
+</div>
