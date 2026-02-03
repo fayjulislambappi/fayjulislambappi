@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Md.%20Fayjul%20Islam%20Bappi&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Front%20End%20Developer%20%26%20Data%20Enthusiast&descAlignY=55&descAlign=50" alt="Header" />
-  
-  <h3>Passionate Front End Developer from Bangladesh 🇧🇩</h3>
-  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=3F88F7&center=true&vCenter=true&width=500&lines=Md.+Fayjul+Islam+Bappi;Front+End+Developer;Data+Enthusiast" alt="Typing SVG" />
+  </a>
+
   <p>
     <a href="mailto:fayjulbappy@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
