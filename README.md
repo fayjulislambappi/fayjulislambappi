@@ -42,17 +42,14 @@ I am a developer with a diverse skillset ranging from **UI/UX Design** to **Data
 <div align="center">
   <br/>
   <a href="https://github.com/fayjulislambappi">
-    <img src="https://github-readme-stats.vercel.app/api?username=fayjulislambappi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=fayjulislambappi&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
   </a>
+  
   <a href="https://github.com/fayjulislambappi">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayjulislambappi&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
   </a>
+  
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fayjulislambappi&theme=tokyonight&hide_border=true" alt="streak graph" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fayjulislambappi&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+  
+  <img src="https://github-readme-streak-stats.demolab.com/?user=fayjulislambappi&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
